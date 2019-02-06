@@ -1,0 +1,16 @@
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\IdentityFrameworkSample.exe.config
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\IdentityFrameworkSample.exe
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\IdentityFrameworkSample.pdb
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\EntityFramework.dll
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\EntityFramework.xml
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\obj\Debug\IdentityFrameworkSample.csprojAssemblyReference.cache
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\obj\Debug\IdentityFrameworkSample.csproj.CoreCompileInputs.cache
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\obj\Debug\IdentityFrameworkSample.csproj.CopyComplete
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\obj\Debug\IdentityFrameworkSample.exe
+D:\Learn-identity-server\IdentityFrameworkSample\IdentityFrameworkSample\obj\Debug\IdentityFrameworkSample.pdb
